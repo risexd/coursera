@@ -63,7 +63,7 @@ h1 {
 
 section {
   border: 1px solid black;
-  margin: 3%;
+  margin: 20px;
   background-color: #bfbfbf;
 }
 
@@ -176,10 +176,6 @@ p {
     width: 91.66%;
   }
   .col-md-12 {
-    width: 100%;
-  }
-
-  .ee {
     width: 100%;
   }
 

@@ -1,0 +1,33 @@
+body {
+	background-color: darkgreen;
+}
+#header-nav {
+	background-color: black;
+	border-radius: 0;
+	border: 0;
+}
+#nav-list {
+	text-align: center;
+	font-size: 1.6em;
+}
+p, h2, h1 {
+	color: black;
+}
+#chicken {
+	border: 2px solid black;
+}
+#beef {
+	border: 2px solid black;
+}
+#sushi {
+	border: 2px solid black;
+}
+div.col-xs-12 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	background-color: gray;
+}
+.container-fluid {
+	margin-right: 20px;
+	margin-left: 20px;
+}
